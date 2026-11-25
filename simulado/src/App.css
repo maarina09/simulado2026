@@ -1,0 +1,30 @@
+body {
+  background-color: #EEF0F8;
+}
+.input-lugar {
+  width: 75%;
+  height: 52px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  font-size: large;
+  padding: 0 16px;
+}
+
+.search {
+  width: 14px;
+  height: 14px;
+  margin-right: 8px;
+}
+
+.btn-buscar {
+  width: 130px;
+  height: 52px;
+  background-color: #483DAD;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 12px;
+} 
